@@ -1,0 +1,15 @@
+
+# Local and generated artifacts
+.env
+.env.*
+!.env.example
+!.env.*.example
+.venv/
+venv/
+myenv/
+__pycache__/
+*.py[cod]
+staticfiles/
+*.log
+.DS_Store
+Thumbs.db
